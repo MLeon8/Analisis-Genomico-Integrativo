@@ -71,7 +71,7 @@ Se requiere una instalación funcional de LaTeX con los paquetes:
 - biblatex
 - graphicx
 - hyperref
-```
+
 
 ## Estructura de archivos recomendada
 
